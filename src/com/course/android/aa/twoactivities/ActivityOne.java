@@ -20,6 +20,9 @@ import android.widget.Button;
 					}
 			});
 		}
+		
+		
+		
 			
 		private void startActivityTwo(){
 			Intent startTwo= new Intent(this, ActivityTwo.class); 
